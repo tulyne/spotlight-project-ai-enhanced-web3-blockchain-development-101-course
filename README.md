@@ -27,6 +27,7 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 ### SECTION 2: SMART CONTRACTS UNVEILED
 **Smart Contracts Explained: The Building Blocks of Web3**
 - Response: 
+
 I learnt about smart contract
 
 ### SECTION 3: DIVE INTO BLOCKCHAIN PLATFORMS
@@ -87,6 +88,7 @@ Learnt about the importance of AI and AI tools in modern web 3 development.
 - Response: 
 
 In this project, I learnt about the application of various git commands studied so far and how to contribute to Open Source Project through PR on the GitHub platform.
+
 And finally, Understanding Git commands and the principles of open-source collaboration will greatly enhance my ability to work effectively in Web3 development.
 
 
