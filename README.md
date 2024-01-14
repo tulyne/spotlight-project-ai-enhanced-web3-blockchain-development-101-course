@@ -1,4 +1,4 @@
-stan# Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course
+# Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course
 
 Welcome to the Spotlight Project for the AI-Enhanced Web3/Blockchain Development 101 Course at dProgramming University. Follow the instructions below to complete your project submission.
 
@@ -85,15 +85,11 @@ Learnt about the importance of AI and AI tools in modern web 3 development.
 
 ### SECTION 9: COURSE PROJECT
 **Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course**
-- Response: 
+- Response:  
 
 In this project, I learnt about the application of various git commands studied so far and how to contribute to Open Source Project through PR on the GitHub platform.
 
-And finally, Understanding Git commands and the principles of open-source collaboration will greatly enhance my ability to work effectively in Web3 development.
-
-
-
-## Screenshot Submission:
+And finally, Understanding Git commands and the principles of open-source collaboration will greatly enhance my ability to work effectively in Web3 development.## Screenshot Submission:
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
